@@ -1,0 +1,24 @@
+# Core Dependencies for ATS Using Face Recognition
+
+# Computer Vision
+opencv-python==4.10.0.84
+opencv-contrib-python==4.10.0.84
+
+# Face Recognition
+face-recognition==1.3.0
+dlib==19.24.6
+
+# Deep Learning Framework
+torch==2.4.1
+torchvision==0.19.1
+
+# Image Processing
+Pillow==10.4.0
+numpy==1.26.4
+
+# GUI Framework (comes with Python, but listing for clarity)
+# tkinter is included in Python standard library
+
+# Additional face-recognition dependencies (installed automatically with face-recognition)
+# face-recognition-models>=0.3.0
+# click>=6.0
